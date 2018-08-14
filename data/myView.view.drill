@@ -1,0 +1,18 @@
+{
+  "name" : "myView",
+  "sql" : "SELECT CAST(`a`[0] AS INTEGER) AS `custId`, `a`[1] AS `name`, CAST(`a`[2] AS DOUBLE) AS `balance`\nFROM `json/scalar-list.json`",
+  "fields" : [ {
+    "name" : "custId",
+    "type" : "INTEGER",
+    "isNullable" : true
+  }, {
+    "name" : "name",
+    "type" : "ANY",
+    "isNullable" : true
+  }, {
+    "name" : "balance",
+    "type" : "DOUBLE",
+    "isNullable" : true
+  } ],
+  "workspaceSchemaPath" : [ "local", "data" ]
+}

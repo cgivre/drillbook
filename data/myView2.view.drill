@@ -1,0 +1,10 @@
+{
+  "name" : "myView2",
+  "sql" : "SELECT *\nFROM `csvh/cust.csvh`",
+  "fields" : [ {
+    "name" : "**",
+    "type" : "DYNAMIC_STAR",
+    "isNullable" : true
+  } ],
+  "workspaceSchemaPath" : [ "local", "data" ]
+}

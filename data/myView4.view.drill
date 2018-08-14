@@ -1,0 +1,10 @@
+{
+  "name" : "myView4",
+  "sql" : "SELECT `columns`\nFROM `csv/cust.csv`",
+  "fields" : [ {
+    "name" : "columns",
+    "type" : "ANY",
+    "isNullable" : true
+  } ],
+  "workspaceSchemaPath" : [ "local", "data" ]
+}

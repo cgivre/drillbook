@@ -1,0 +1,22 @@
+{
+  "name" : "myView3",
+  "sql" : "SELECT `custId`, `name`, `balance`, `status`\nFROM `csvh/cust.csvh`",
+  "fields" : [ {
+    "name" : "custId",
+    "type" : "ANY",
+    "isNullable" : true
+  }, {
+    "name" : "name",
+    "type" : "ANY",
+    "isNullable" : true
+  }, {
+    "name" : "balance",
+    "type" : "ANY",
+    "isNullable" : true
+  }, {
+    "name" : "status",
+    "type" : "ANY",
+    "isNullable" : true
+  } ],
+  "workspaceSchemaPath" : [ "local", "data" ]
+}

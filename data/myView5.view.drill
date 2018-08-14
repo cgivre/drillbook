@@ -1,0 +1,10 @@
+{
+  "name" : "myView5",
+  "sql" : "SELECT CAST(`custId` AS INTEGER) AS `custId`\nFROM `csvh/cust.csvh`",
+  "fields" : [ {
+    "name" : "custId",
+    "type" : "INTEGER",
+    "isNullable" : true
+  } ],
+  "workspaceSchemaPath" : [ "local", "data" ]
+}
