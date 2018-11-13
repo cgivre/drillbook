@@ -1,4 +1,4 @@
-# drillbook
+# Learning Apache Drill
 
 ## Authors
 
