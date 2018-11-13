@@ -11,6 +11,9 @@ In this practical book, Drill committers Charles Givre and Paul Rogers show anal
 * Perform sophisticated analysis by extending Drill’s functionality with user-defined functions
 * Facilitate data analysis for network security, image metadata, and machine learning
 
+## Purchasing
+You can download an electronic copy of Learning Apache Drill on Safari Books http://shop.oreilly.com/product/0636920142898.do or on Amazon. 
+
 ## Authors
 
 * Charles Givre CISSP, Lead Data Scientist, Deutsche Bank, Co-Founder GTK Cyber http://www.thedataist.com
