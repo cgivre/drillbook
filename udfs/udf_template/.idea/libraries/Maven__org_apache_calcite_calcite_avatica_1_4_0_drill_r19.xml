@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.calcite:calcite-avatica:1.4.0-drill-r19">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/calcite/calcite-avatica/1.4.0-drill-r19/calcite-avatica-1.4.0-drill-r19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/calcite/calcite-avatica/1.4.0-drill-r19/calcite-avatica-1.4.0-drill-r19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/calcite/calcite-avatica/1.4.0-drill-r19/calcite-avatica-1.4.0-drill-r19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
